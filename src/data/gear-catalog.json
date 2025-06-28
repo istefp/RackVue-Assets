@@ -33,5 +33,12 @@
     "units": 2,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751079325052-solid-state-logic-pure-drive-quad-4-channel-mic-preamp.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751079402985",
+    "name": "Stam Audio SA-4000 MK3",
+    "units": 1,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751079402985-stam-audio-sa-4000-mk3.jpg",
+    "scale": 1
   }
 ]
