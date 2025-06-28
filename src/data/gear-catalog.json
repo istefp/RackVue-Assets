@@ -54,5 +54,12 @@
     "units": 1,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751079669246-empirical-labs-el8-x-distressor.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751079728591",
+    "name": "Ampex 351",
+    "units": 4,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751079728591-ampex-351.jpg",
+    "scale": 1
   }
 ]
