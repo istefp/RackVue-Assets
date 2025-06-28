@@ -12,5 +12,12 @@
     "units": 2,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751069264156-vintech-473-4-channel-microphone-preamp---eq.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751071142468",
+    "name": "Manley Core Reference Tube Channel Strip",
+    "units": 2,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751071142468-manley-core-reference-tube-channel-strip.jpg",
+    "scale": 1
   }
 ]
