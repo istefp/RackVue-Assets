@@ -40,5 +40,12 @@
     "units": 1,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751079402985-stam-audio-sa-4000-mk3.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751079579685",
+    "name": "Tube-Tech CL 1B Tube Optical Compressor",
+    "units": 3,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751079579685-tube-tech-cl-1b-tube-optical-compressor.jpg",
+    "scale": 1
   }
 ]
