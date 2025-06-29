@@ -5,5 +5,12 @@
     "units": 2,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751163526207-solid-state-logic-puredrive-quad-4-channel-mic-line.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751163632037",
+    "name": "Stam Audio SA-4000 MK3",
+    "units": 1,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751163632037-stam-audio-sa-4000-mk3.jpg",
+    "scale": 1
   }
 ]
