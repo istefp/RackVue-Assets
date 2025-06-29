@@ -47,5 +47,12 @@
     "units": 1,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751168161978-1u-rack-panel.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751168213890",
+    "name": "ART P16 16-channel XLR Balanced Patchbay",
+    "units": 1,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751168213890-art-p16-16-channel-xlr-balanced-patchbay.jpg",
+    "scale": 1
   }
 ]
