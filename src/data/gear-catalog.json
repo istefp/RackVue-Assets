@@ -19,5 +19,12 @@
     "units": 3,
     "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751163694863-tube-tech-cl-1b-tube-optical-compressor.jpg",
     "scale": 1
+  },
+  {
+    "id": "1751163750333",
+    "name": "Universal Audio 4-710d 4-channel Microphone Preamp and Compressor",
+    "units": 2,
+    "photo": "https://raw.githubusercontent.com/istefp/RackVue-Assets/main/public/images/gear/1751163750333-universal-audio-4-710d-4-channel-microphone-preamp-and-compressor.jpg",
+    "scale": 1
   }
 ]
